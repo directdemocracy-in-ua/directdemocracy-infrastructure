@@ -1,0 +1,3 @@
+[submodule "authentication-service"]
+	path = authentication-service
+	url = git@github.com:directdemocracy-in-ua/authentication-service.git
